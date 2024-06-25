@@ -1,0 +1,21 @@
+INFO    │ looking for a BT2 calculation
+INFO    │ successfully loaded a BT2 calculation
+INFO    │ Fermi energy: -0.046871174029512415
+INFO    │ sucessfully loaded interpolation.bt2
+INFO    │ rebuilding the bands took 102 s
+INFO    │ computing the DOS took 37.3 s
+INFO    │ smoothing the DOS took 0.00952 s
+INFO    │ Temperatures: [ 100.  200.  300.  400.  500.  600.  700.  800.  900. 1000. 1100. 1200.
+INFO    │  1300.]
+INFO    │ Fermi level from DFT: -0.046871174029512415
+INFO    │ Refined Fermi level: -0.042733416928973866
+INFO    │ Intrinsic chemical potential for each T: [-0.04273342 -0.04273342 -0.04273342 -0.04362295 -0.04380066 -0.04394951
+INFO    │  -0.04407071 -0.04417604 -0.0442662  -0.04433987 -0.04440112 -0.04444471
+INFO    │  -0.04448056]
+INFO    │ Chemical potentials: [-0.21674359 -0.21658526 -0.21642692 ...  0.12209333  0.12225166
+INFO    │   0.12241   ]
+INFO    │ computing the FD moments took 11.6 s
+INFO    │ trace output file: interpolation.trace
+INFO    │ conductivity/seebeck output file: interpolation.condtens
+INFO    │ Hall coefficient output file: interpolation.halltens
+INFO    │ JSON output file: interpolation.btj
